@@ -1,0 +1,15 @@
+- new window: `tmux new -s name`
+- attach: `tmux attach-session -t name`
+- command during session: `Ctrl+B`
+  - detach: `D`
+  - next window: `N`
+  - jump to window: `0 to 9`
+  - close window/pane: `X`
+  - list sessions: `S`
+  - flash pane numbers: `Q`
+  - jump pane: `Up, Down, Left, or Right`
+  - move through panes in order: `O`
+  - split pane horiz: `%`
+  - split pane vert: `"`
+  - swap pane with next: '}'
+  - swap pane with previous: '{'
